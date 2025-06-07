@@ -17,5 +17,5 @@ This Python-based motion detection system monitors a webcam feed and sends real-
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/motion-detector-telegram.git
+git clone https://github.com/sinanyuzgulec/motion-detector-telegram.git
 cd motion-detector-telegram
